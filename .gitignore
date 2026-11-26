@@ -1,0 +1,14 @@
+# Prevent committing large release binaries to git (upload to GitHub Releases instead)
+*.apk
+*.aab
+*.exe
+*.zip
+*.dmg
+*.deb
+*.rpm
+*.AppImage
+
+# Logs and local files
+*.log
+.DS_Store
+Thumbs.db
